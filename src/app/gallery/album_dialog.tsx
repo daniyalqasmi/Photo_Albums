@@ -33,7 +33,7 @@ const Album_dialog = ({imageData}:{imageData:string}) => {
           <DialogHeader>
             <DialogTitle>Add to Album</DialogTitle>
             <DialogDescription>
-              Enter the album name for the picture you want to add in the album. Click Add to Album when you're done.
+              Enter the album name for the picture you want to add in the album. Click Add to Album when youre done.
             </DialogDescription>
           </DialogHeader>
           <div className="grid gap-4 py-4">
